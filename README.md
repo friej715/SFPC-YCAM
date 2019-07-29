@@ -1,4 +1,4 @@
-# Playing Well Together
+# Playing The World
 
 When we talk about emergent behaviors, we often default to thinking about them through the lens of code: the glitchy, weird, poetic, delightful, and unexpected outputs of a digital algorithmic system. But as we play with delightful and unpredictable rulesets in code, it is worth stepping back and exploring the rulesets humans have been making to surprise, delight, and connect with each other for millenia: that is, games.
 
